@@ -44,7 +44,7 @@ export default function Contact() {
             
         </section>
         
-        <section>
+        <section className="mt-20">
             <div>
                 <h2 className='text-2xl font-semibold'>
                     Are You Ready to Elevate Your Marketing to the Next Level?
